@@ -27,3 +27,5 @@ yarn start
 | [<img src="https://github.com/willmorim.png" width="75px;"/>][1] |
 | :--------------------------------------------------------------: |
 |                       [William Amorim][1]                        |
+
+[1]: https://github.com/willmorim
