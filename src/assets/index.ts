@@ -1,0 +1,9 @@
+export { ReactComponent as ReactjsTrail } from "./reactjs.svg";
+export { ReactComponent as NodejsTrail } from "./nodejs.svg";
+export { ReactComponent as ElixirTrail } from "./elixir.svg";
+export { ReactComponent as ReactNativeTrail } from "./react-native.svg";
+export { ReactComponent as IgniteTrail } from "./ignite.svg";
+export { ReactComponent as ReactjsTicket } from "./ticket-reactjs.svg";
+export { ReactComponent as NodejsTicket } from "./ticket-nodejs.svg";
+export { ReactComponent as ElixirTicket } from "./ticket-elixir.svg";
+export { ReactComponent as ReactNativeTicket } from "./ticket-react-native.svg";
