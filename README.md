@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+<img src="https://i.imgur.com/XSFK6Br.png" />
 
 # Clonando a tela de seleção de trilhas
 
